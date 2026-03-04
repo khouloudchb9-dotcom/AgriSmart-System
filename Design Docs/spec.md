@@ -1,74 +1,74 @@
 ## specification
- AgriSmart – Smart Agricultural Marketplace & Consulting Platform
+AgriSmart – Plateforme Intelligente de Marché Agricole et de Conseil
 
-AgriSmart is a digital platform designed to support and modernize Tunisian agriculture. The system combines an agricultural marketplace and a consulting platform in one intelligent solution.
+AgriSmart est une plateforme numérique conçue pour soutenir et moderniser l’agriculture tunisienne. Le système combine un marché agricole et une plateforme de conseil en une seule solution intelligente.
 
-The platform allows users to:
+La plateforme permet aux utilisateurs de :
 
- 1. Agricultural Marketplace
+1. Marché Agricole
 
-Users can:
+Les utilisateurs peuvent :
 
-Buy and sell fruits
+Acheter et vendre des fruits
 
-Buy and sell vegetables
+Acheter et vendre des légumes
 
-Purchase seeds
+Acheter des semences
 
-Purchase plants
+Acheter des plants
 
-Buy gardening materials and tools
+Acheter des matériaux et outils de jardinage
 
-Access agricultural equipment
+Accéder à des équipements agricoles
 
-Farmers and sellers can:
+Les agriculteurs et les vendeurs peuvent :
 
-Create accounts
+Créer des comptes
 
-Upload products with images, price, description
+Publier des produits avec images, prix et description
 
-Manage their inventory
+Gérer leur inventaire
 
-Track orders and sales
+Suivre les commandes et les ventes
 
-2. Agricultural & Gardening Consultation
+2. Conseil Agricole et Jardinage
 
-AgriSmart connects users with:
+AgriSmart met en relation les utilisateurs avec :
 
-Professional agricultural experts 
+Des experts agricoles professionnels
 
-Local gardeners
+Des jardiniers locaux
 
-Users can:
+Les utilisateurs peuvent :
 
-Search for experts
+Rechercher des experts
 
-View profiles (description, experience, location, rating)
+Consulter les profils (description, expérience, localisation, évaluation)
 
-Contact them
+Les contacter
 
-Book consultations
+Réserver des consultations
 
- 3. Smart Chatbot Assistant
+3. Assistant Chatbot Intelligent
 
-The platform includes an AI chatbot that can:
+La plateforme inclut un chatbot basé sur l’IA capable de :
 
-Answer questions about agriculture
+Répondre aux questions liées à l’agriculture
 
-Help users navigate the platform
+Aider les utilisateurs à naviguer sur la plateforme
 
-Recommend nearby agricultural experts or gardeners
+Recommander des experts agricoles ou des jardiniers à proximité
 
-Suggest products based on user needs
+Suggérer des produits en fonction des besoins des utilisateurs
 
-Provide basic agricultural advice (watering, planting seasons, etc.)
+Fournir des conseils agricoles de base (arrosage, saisons de plantation, etc.)
 
- 4. Location-Based Recommendation
+4. Recommandation Basée sur la Localisation
 
-The system can:
+Le système peut :
 
-Detect user location
+Détecter la localisation de l’utilisateur
 
-Recommend the nearest agricultural expert or gardener
+Recommander l’expert agricole ou le jardinier le plus proche
 
-Suggest local sellers
+Suggérer des vendeurs locaux
