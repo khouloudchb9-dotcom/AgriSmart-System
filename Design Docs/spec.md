@@ -1,11 +1,11 @@
 ## specification
-🌿 AgriSmart – Smart Agricultural Marketplace & Consulting Platform
+ AgriSmart – Smart Agricultural Marketplace & Consulting Platform
 
 AgriSmart is a digital platform designed to support and modernize Tunisian agriculture. The system combines an agricultural marketplace and a consulting platform in one intelligent solution.
 
 The platform allows users to:
 
-🛒 1. Agricultural Marketplace
+ 1. Agricultural Marketplace
 
 Users can:
 
@@ -31,11 +31,11 @@ Manage their inventory
 
 Track orders and sales
 
-👨‍🌾 2. Agricultural & Gardening Consultation
+2. Agricultural & Gardening Consultation
 
 AgriSmart connects users with:
 
-Professional agricultural experts
+Professional agricultural experts 
 
 Local gardeners
 
@@ -49,7 +49,7 @@ Contact them
 
 Book consultations
 
-🤖 3. Smart Chatbot Assistant
+ 3. Smart Chatbot Assistant
 
 The platform includes an AI chatbot that can:
 
@@ -63,7 +63,7 @@ Suggest products based on user needs
 
 Provide basic agricultural advice (watering, planting seasons, etc.)
 
-📍 4. Location-Based Recommendation
+ 4. Location-Based Recommendation
 
 The system can:
 
