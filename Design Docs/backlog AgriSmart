@@ -1,16 +1,16 @@
 Backlog Produit – AgriSmart (PFE)
-🎯 Vision
+Vision
 
 AgriSmart est une plateforme digitale dédiée à l’agriculture tunisienne qui combine :
 
-🛒 Marketplace agricole (fruits, légumes, semences, plantes, matériel de jardinage…)
+ Marketplace agricole (fruits, légumes, semences, plantes, matériel de jardinage…)
 
-👨‍🌾 Consultation avec des experts agricoles et jardiniers
+ Consultation avec des experts agricoles et jardiniers
 
-🤖 Chatbot intelligent pour guider les utilisateurs et recommander des professionnels proches
+ Chatbot intelligent pour guider les utilisateurs et recommander des professionnels proches
 
-🔥 Priorité Haute – MVP (Indispensable pour le PFE)
-👤 Gestion des utilisateurs
+ Priorité Haute – MVP (Indispensable pour le PFE)
+ Gestion des utilisateurs
 
 Création de compte :
 
@@ -24,7 +24,7 @@ Connexion / Déconnexion
 
 Gestion du profil utilisateur (infos, localisation, rôle)
 
-🛒 Marketplace agricole
+ Marketplace agricole
 
 Ajouter un produit :
 
@@ -44,7 +44,7 @@ Passer une commande
 
 Gestion simple des commandes (statut : en attente / confirmée)
 
-🤖 Assistance & Conseil
+ Assistance & Conseil
 
 Chatbot agricole basique :
 
@@ -56,8 +56,8 @@ Recherche d’experts agricoles / jardiniers
 
 Géolocalisation des experts (proches de l’utilisateur)
 
-⚖️ Priorité Moyenne – Fonctionnalités Avancées
-👨‍🌾 Consultation & Interaction
+ Priorité Moyenne – Fonctionnalités Avancées
+Consultation & Interaction
 
 Messagerie directe utilisateur ↔ expert
 
@@ -79,8 +79,8 @@ Région
 
 Recommandation de produits (basée sur recherches ou catégories)
 
-💡 Priorité Basse – Bonus / Innovation
-💳 Services & UX
+ Priorité Basse – Bonus / Innovation
+ Services & UX
 
 Paiement en ligne (simulation ou réel)
 
@@ -92,7 +92,7 @@ Français 🇫🇷
 
 Arabe 🇹🇳
 
-📊 Outils avancés
+Outils avancés
 
 Tableau de bord vendeur :
 
