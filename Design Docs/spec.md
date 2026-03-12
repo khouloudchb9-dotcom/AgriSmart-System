@@ -5,7 +5,11 @@ AgriSmart est une plateforme numérique conçue pour soutenir et moderniser l’
 
 La plateforme permet aux utilisateurs de :
 
-1. Marché Agricole
+1. Marché Agricole (Marketplace)
+
+La plateforme permet aux utilisateurs d’acheter et vendre différents types de produits agricoles.
+
+Produits disponibles
 
 Les utilisateurs peuvent :
 
@@ -21,11 +25,15 @@ Acheter des matériaux et outils de jardinage
 
 Accéder à des équipements agricoles
 
-Les agriculteurs et les vendeurs peuvent :
+Fonctionnalités pour les vendeurs
 
-Créer des comptes
+Les agriculteurs et vendeurs peuvent :
 
-Publier des produits avec images, prix et description
+Créer un compte vendeur
+
+Publier des produits avec image, prix et description
+
+Modifier ou supprimer leurs produits
 
 Gérer leur inventaire
 
@@ -41,34 +49,57 @@ Des jardiniers locaux
 
 Les utilisateurs peuvent :
 
-Rechercher des experts
+Rechercher des experts ou jardiniers
 
-Consulter les profils (description, expérience, localisation, évaluation)
+Consulter leurs profils (description, expérience, localisation, évaluations)
 
-Les contacter
+Envoyer des demandes de consultation
+
+Communiquer avec eux via messagerie
 
 Réserver des consultations
 
+Dashboard Expert / Jardinier
+
+Les experts disposent d’un tableau de bord leur permettant de :
+
+Modifier et gérer leur profil professionnel
+
+Voir les demandes de consultation
+
+Répondre aux utilisateurs via messagerie
+
+Gérer leurs consultations
+
+Consulter les avis et évaluations reçus
+
 3. Assistant Chatbot Intelligent
 
-La plateforme inclut un chatbot basé sur l’IA capable de :
+La plateforme inclut un chatbot basé sur l’intelligence artificielle capable de :
 
 Répondre aux questions liées à l’agriculture
 
 Aider les utilisateurs à naviguer sur la plateforme
 
-Recommander des experts agricoles ou des jardiniers à proximité
+Recommander des experts agricoles ou jardiniers
 
-Suggérer des produits en fonction des besoins des utilisateurs
+Suggérer des produits adaptés aux besoins des utilisateurs
 
 Fournir des conseils agricoles de base (arrosage, saisons de plantation, etc.)
 
 4. Recommandation Basée sur la Localisation
 
-Le système peut :
+Le système utilise la localisation pour améliorer les recommandations.
+
+Il peut :
 
 Détecter la localisation de l’utilisateur
 
 Recommander l’expert agricole ou le jardinier le plus proche
 
 Suggérer des vendeurs locaux
+
+Faciliter les interactions entre agriculteurs et spécialistes de la même région
+
+
+
